@@ -1,0 +1,15 @@
+# data and results
+dataset
+results/*
+!results/ogbl-vessel_gav/
+results/ogbl-vessel_gav/*
+!results/ogbl-vessel_gav/run1_model_checkpoint34.pth
+
+# output files
+*.out
+*.json
+*.pyc
+
+# obgl
+mapping
+submission_*
