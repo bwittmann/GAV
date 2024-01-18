@@ -76,7 +76,7 @@ Please note that in the preprocessing step, the `--dataset_name` has to start wi
 Follow the instructions above and simply state the processed dataset's name after the `--dataset` flag, omitting `ogbl-`. E.g., `--dataset c57_tc_vessel`.
 
 ## Citation
-If you find our work useful for your research, please consider citing::
+If you find our work useful for your research, please consider citing:
 ```bibtex
 @InProceedings{Wittmann_2024_WACV,
     author    = {Wittmann, Bastian and Paetzold, Johannes C. and Prabhakar, Chinmay and Rueckert, Daniel and Menze, Bjoern},
